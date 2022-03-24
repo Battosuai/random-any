@@ -1,0 +1,22 @@
+{
+  "name": "random-any",
+  "version": "0.1.0",
+  "description": "Generate random stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Battosuai/random-any.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "MD. Asifur Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Battosuai/random-any/issues"
+  },
+  "homepage": "https://github.com/Battosuai/random-any#readme"
+}
